@@ -77,6 +77,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Firman Fathoni](https://github.com/FirmanFathoni)
 - [Yoel Gabriel Nainggolan](https://github.com/yoelngl)
 - [Aan Ahmad](http://github.com/yaelahan)
+- [Rud Az](http://github.com/V1O7ET)
 
 
 ## How to contribute
